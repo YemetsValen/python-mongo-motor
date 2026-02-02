@@ -1,0 +1,122 @@
+[
+  {
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "sport": "football",
+    "league": "Premier League",
+    "season": "2024-25",
+    "scheduled_days_from_now": 1
+  },
+  {
+    "home_team": "Arsenal",
+    "away_team": "Chelsea",
+    "sport": "football",
+    "league": "Premier League",
+    "season": "2024-25",
+    "scheduled_days_from_now": 2
+  },
+  {
+    "home_team": "Manchester City",
+    "away_team": "Tottenham",
+    "sport": "football",
+    "league": "Premier League",
+    "season": "2024-25",
+    "scheduled_days_from_now": 3
+  },
+  {
+    "home_team": "Real Madrid",
+    "away_team": "Barcelona",
+    "sport": "football",
+    "league": "La Liga",
+    "season": "2024-25",
+    "scheduled_days_from_now": 2
+  },
+  {
+    "home_team": "Atletico Madrid",
+    "away_team": "Sevilla",
+    "sport": "football",
+    "league": "La Liga",
+    "season": "2024-25",
+    "scheduled_days_from_now": 4
+  },
+  {
+    "home_team": "Bayern Munich",
+    "away_team": "Borussia Dortmund",
+    "sport": "football",
+    "league": "Bundesliga",
+    "season": "2024-25",
+    "scheduled_days_from_now": 3
+  },
+  {
+    "home_team": "RB Leipzig",
+    "away_team": "Bayer Leverkusen",
+    "sport": "football",
+    "league": "Bundesliga",
+    "season": "2024-25",
+    "scheduled_days_from_now": 5
+  },
+  {
+    "home_team": "Juventus",
+    "away_team": "AC Milan",
+    "sport": "football",
+    "league": "Serie A",
+    "season": "2024-25",
+    "scheduled_days_from_now": 4
+  },
+  {
+    "home_team": "Inter Milan",
+    "away_team": "Napoli",
+    "sport": "football",
+    "league": "Serie A",
+    "season": "2024-25",
+    "scheduled_days_from_now": 5
+  },
+  {
+    "home_team": "AS Roma",
+    "away_team": "Lazio",
+    "sport": "football",
+    "league": "Serie A",
+    "season": "2024-25",
+    "scheduled_days_from_now": 6
+  },
+  {
+    "home_team": "PSG",
+    "away_team": "Marseille",
+    "sport": "football",
+    "league": "Ligue 1",
+    "season": "2024-25",
+    "scheduled_days_from_now": 3
+  },
+  {
+    "home_team": "Lyon",
+    "away_team": "Monaco",
+    "sport": "football",
+    "league": "Ligue 1",
+    "season": "2024-25",
+    "scheduled_days_from_now": 7
+  },
+  {
+    "home_team": "Real Madrid",
+    "away_team": "Bayern Munich",
+    "sport": "football",
+    "league": "Champions League",
+    "season": "2024-25",
+    "scheduled_days_from_now": 8
+  },
+  {
+    "home_team": "Manchester City",
+    "away_team": "PSG",
+    "sport": "football",
+    "league": "Champions League",
+    "season": "2024-25",
+    "scheduled_days_from_now": 9
+  },
+  {
+    "home_team": "Barcelona",
+    "away_team": "Inter Milan",
+    "sport": "football",
+    "league": "Champions League",
+    "season": "2024-25",
+    "scheduled_days_from_now": 10
+  }
+]

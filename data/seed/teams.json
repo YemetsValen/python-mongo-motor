@@ -1,0 +1,141 @@
+{
+  "leagues": {
+    "premier_league": {
+      "name": "Premier League",
+      "country": "England",
+      "season": "2024-25",
+      "teams": [
+        {"name": "Arsenal", "short_name": "ARS", "city": "London"},
+        {"name": "Aston Villa", "short_name": "AVL", "city": "Birmingham"},
+        {"name": "Bournemouth", "short_name": "BOU", "city": "Bournemouth"},
+        {"name": "Brentford", "short_name": "BRE", "city": "London"},
+        {"name": "Brighton", "short_name": "BHA", "city": "Brighton"},
+        {"name": "Chelsea", "short_name": "CHE", "city": "London"},
+        {"name": "Crystal Palace", "short_name": "CRY", "city": "London"},
+        {"name": "Everton", "short_name": "EVE", "city": "Liverpool"},
+        {"name": "Fulham", "short_name": "FUL", "city": "London"},
+        {"name": "Ipswich Town", "short_name": "IPS", "city": "Ipswich"},
+        {"name": "Leicester City", "short_name": "LEI", "city": "Leicester"},
+        {"name": "Liverpool", "short_name": "LIV", "city": "Liverpool"},
+        {"name": "Manchester City", "short_name": "MCI", "city": "Manchester"},
+        {"name": "Manchester United", "short_name": "MUN", "city": "Manchester"},
+        {"name": "Newcastle United", "short_name": "NEW", "city": "Newcastle"},
+        {"name": "Nottingham Forest", "short_name": "NFO", "city": "Nottingham"},
+        {"name": "Southampton", "short_name": "SOU", "city": "Southampton"},
+        {"name": "Tottenham", "short_name": "TOT", "city": "London"},
+        {"name": "West Ham United", "short_name": "WHU", "city": "London"},
+        {"name": "Wolverhampton", "short_name": "WOL", "city": "Wolverhampton"}
+      ]
+    },
+    "la_liga": {
+      "name": "La Liga",
+      "country": "Spain",
+      "season": "2024-25",
+      "teams": [
+        {"name": "Athletic Bilbao", "short_name": "ATH", "city": "Bilbao"},
+        {"name": "Atletico Madrid", "short_name": "ATM", "city": "Madrid"},
+        {"name": "Barcelona", "short_name": "BAR", "city": "Barcelona"},
+        {"name": "Celta Vigo", "short_name": "CEL", "city": "Vigo"},
+        {"name": "Getafe", "short_name": "GET", "city": "Getafe"},
+        {"name": "Girona", "short_name": "GIR", "city": "Girona"},
+        {"name": "Las Palmas", "short_name": "LPA", "city": "Las Palmas"},
+        {"name": "Leganes", "short_name": "LEG", "city": "Leganes"},
+        {"name": "Mallorca", "short_name": "MLL", "city": "Palma"},
+        {"name": "Osasuna", "short_name": "OSA", "city": "Pamplona"},
+        {"name": "Rayo Vallecano", "short_name": "RAY", "city": "Madrid"},
+        {"name": "Real Betis", "short_name": "BET", "city": "Seville"},
+        {"name": "Real Madrid", "short_name": "RMA", "city": "Madrid"},
+        {"name": "Real Sociedad", "short_name": "RSO", "city": "San Sebastian"},
+        {"name": "Real Valladolid", "short_name": "VLL", "city": "Valladolid"},
+        {"name": "Sevilla", "short_name": "SEV", "city": "Seville"},
+        {"name": "Valencia", "short_name": "VAL", "city": "Valencia"},
+        {"name": "Villarreal", "short_name": "VIL", "city": "Villarreal"},
+        {"name": "Alaves", "short_name": "ALA", "city": "Vitoria-Gasteiz"},
+        {"name": "Espanyol", "short_name": "ESP", "city": "Barcelona"}
+      ]
+    },
+    "bundesliga": {
+      "name": "Bundesliga",
+      "country": "Germany",
+      "season": "2024-25",
+      "teams": [
+        {"name": "Bayern Munich", "short_name": "BAY", "city": "Munich"},
+        {"name": "Borussia Dortmund", "short_name": "BVB", "city": "Dortmund"},
+        {"name": "RB Leipzig", "short_name": "RBL", "city": "Leipzig"},
+        {"name": "Bayer Leverkusen", "short_name": "B04", "city": "Leverkusen"},
+        {"name": "Eintracht Frankfurt", "short_name": "SGE", "city": "Frankfurt"},
+        {"name": "VfB Stuttgart", "short_name": "VFB", "city": "Stuttgart"},
+        {"name": "Wolfsburg", "short_name": "WOB", "city": "Wolfsburg"},
+        {"name": "Freiburg", "short_name": "SCF", "city": "Freiburg"},
+        {"name": "Hoffenheim", "short_name": "TSG", "city": "Sinsheim"},
+        {"name": "Werder Bremen", "short_name": "SVW", "city": "Bremen"},
+        {"name": "Mainz 05", "short_name": "M05", "city": "Mainz"},
+        {"name": "Augsburg", "short_name": "FCA", "city": "Augsburg"},
+        {"name": "Borussia Monchengladbach", "short_name": "BMG", "city": "Monchengladbach"},
+        {"name": "Union Berlin", "short_name": "FCU", "city": "Berlin"},
+        {"name": "Heidenheim", "short_name": "HDH", "city": "Heidenheim"},
+        {"name": "St. Pauli", "short_name": "STP", "city": "Hamburg"},
+        {"name": "Holstein Kiel", "short_name": "KIE", "city": "Kiel"},
+        {"name": "Bochum", "short_name": "BOC", "city": "Bochum"}
+      ]
+    },
+    "serie_a": {
+      "name": "Serie A",
+      "country": "Italy",
+      "season": "2024-25",
+      "teams": [
+        {"name": "AC Milan", "short_name": "MIL", "city": "Milan"},
+        {"name": "Inter Milan", "short_name": "INT", "city": "Milan"},
+        {"name": "Juventus", "short_name": "JUV", "city": "Turin"},
+        {"name": "Napoli", "short_name": "NAP", "city": "Naples"},
+        {"name": "Roma", "short_name": "ROM", "city": "Rome"},
+        {"name": "Lazio", "short_name": "LAZ", "city": "Rome"},
+        {"name": "Atalanta", "short_name": "ATA", "city": "Bergamo"},
+        {"name": "Fiorentina", "short_name": "FIO", "city": "Florence"},
+        {"name": "Bologna", "short_name": "BOL", "city": "Bologna"},
+        {"name": "Torino", "short_name": "TOR", "city": "Turin"},
+        {"name": "Udinese", "short_name": "UDI", "city": "Udine"},
+        {"name": "Genoa", "short_name": "GEN", "city": "Genoa"},
+        {"name": "Cagliari", "short_name": "CAG", "city": "Cagliari"},
+        {"name": "Empoli", "short_name": "EMP", "city": "Empoli"},
+        {"name": "Parma", "short_name": "PAR", "city": "Parma"},
+        {"name": "Como", "short_name": "COM", "city": "Como"},
+        {"name": "Verona", "short_name": "VER", "city": "Verona"},
+        {"name": "Lecce", "short_name": "LEC", "city": "Lecce"},
+        {"name": "Monza", "short_name": "MON", "city": "Monza"},
+        {"name": "Venezia", "short_name": "VEN", "city": "Venice"}
+      ]
+    },
+    "ligue_1": {
+      "name": "Ligue 1",
+      "country": "France",
+      "season": "2024-25",
+      "teams": [
+        {"name": "Paris Saint-Germain", "short_name": "PSG", "city": "Paris"},
+        {"name": "Marseille", "short_name": "OM", "city": "Marseille"},
+        {"name": "Lyon", "short_name": "OL", "city": "Lyon"},
+        {"name": "Monaco", "short_name": "ASM", "city": "Monaco"},
+        {"name": "Lille", "short_name": "LOSC", "city": "Lille"},
+        {"name": "Nice", "short_name": "OGC", "city": "Nice"},
+        {"name": "Lens", "short_name": "RCL", "city": "Lens"},
+        {"name": "Rennes", "short_name": "REN", "city": "Rennes"},
+        {"name": "Strasbourg", "short_name": "RCS", "city": "Strasbourg"},
+        {"name": "Nantes", "short_name": "FCN", "city": "Nantes"},
+        {"name": "Toulouse", "short_name": "TFC", "city": "Toulouse"},
+        {"name": "Montpellier", "short_name": "MHS", "city": "Montpellier"},
+        {"name": "Brest", "short_name": "SB29", "city": "Brest"},
+        {"name": "Reims", "short_name": "SDR", "city": "Reims"},
+        {"name": "Le Havre", "short_name": "HAC", "city": "Le Havre"},
+        {"name": "Auxerre", "short_name": "AJA", "city": "Auxerre"},
+        {"name": "Angers", "short_name": "SCO", "city": "Angers"},
+        {"name": "Saint-Etienne", "short_name": "ASSE", "city": "Saint-Etienne"}
+      ]
+    }
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "last_updated": "2024-01-01",
+    "total_teams": 96,
+    "total_leagues": 5
+  }
+}
